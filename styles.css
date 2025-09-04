@@ -62,11 +62,11 @@ button {
 }
 
 button:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 button:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 a {
@@ -78,11 +78,11 @@ a {
 }
 
 a:nth-child(2) {
-    opacity: .4;
+    opacity: 0.4;
 }
 
 a:hover {
-    opacity: .4;
+    opacity: 0.4;
 }
 
 a:active {
